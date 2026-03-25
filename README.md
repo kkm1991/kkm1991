@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Custom Staff Salary Payment System](https://github.com/kkm1991/MZT https://github.com/kkm1991/MZTMbackendAPIMFrontendVue)
 
-- 👨‍💻 All of my projects are available at [https://profile.kkm.logikamyanmar.com/](https://profile.kkm.logikamyanmar.com/)
+- 👨‍💻 All of my projects are available at [https://khaingkyawmin.com/](https://khaingkyawmin.com/)
 
-- 📫 How to reach me **khaingkyawmin1991@gmail.com**
+- 📫 How to reach me **contact@khaingkyawmin.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
