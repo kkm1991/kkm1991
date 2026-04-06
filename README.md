@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaing Kyaw Min</h1>
 <h3 align="center">A passionate vue frontend and Laravel backend developer from Myanmar</h3>
 
-- 🔭 I’m currently working on [Nexus Point of sale]([https://github.com/kkm1991/POS][https://github.com/kkm1991/NexusPOS-Android])
+- 🔭 I’m currently working on [Nexus Point of sale](https://github.com/kkm1991/POS) [Nexus POS Android](https://github.com/kkm1991/NexusPOS-Android)
 
 - 👨‍💻 All of my projects are available at [https://khaingkyawmin.com/](https://khaingkyawmin.com/)
 
